@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DevAdnan33
 - 👀 I’m interested in Code👩‍💻
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 💻 Working on Data Science
